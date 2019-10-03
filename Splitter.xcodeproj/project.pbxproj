@@ -14,6 +14,7 @@
 		B5136D1223465ECB005AD936 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5136D1023465ECB005AD936 /* Main.storyboard */; };
 		B5136D1423465ECC005AD936 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5136D1323465ECC005AD936 /* Assets.xcassets */; };
 		B5136D1723465ECC005AD936 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5136D1523465ECC005AD936 /* LaunchScreen.storyboard */; };
+		B5136D1F23466048005AD936 /* Images+Names+Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5136D1E23466048005AD936 /* Images+Names+Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B5136D1323465ECC005AD936 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5136D1623465ECC005AD936 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5136D1823465ECC005AD936 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5136D1E23466048005AD936 /* Images+Names+Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Images+Names+Colors.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B5136D1323465ECC005AD936 /* Assets.xcassets */,
 				B5136D1523465ECC005AD936 /* LaunchScreen.storyboard */,
 				B5136D1823465ECC005AD936 /* Info.plist */,
+				B5136D1E23466048005AD936 /* Images+Names+Colors.swift */,
 			);
 			path = Splitter;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5136D1F23466048005AD936 /* Images+Names+Colors.swift in Sources */,
 				B5136D0923465ECB005AD936 /* AppDelegate.swift in Sources */,
 				B5136D0B23465ECB005AD936 /* SceneDelegate.swift in Sources */,
 				B5136D0D23465ECB005AD936 /* MasterViewController.swift in Sources */,
